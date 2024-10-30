@@ -1,0 +1,3 @@
+It breaks because the max recursion depth was reached
+
+Its not good for large problems since it causes a overload in storage if its too large. It causes a lot of memory to have to be stored since it has to remember each function called.   
